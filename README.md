@@ -6,9 +6,11 @@
 🏥 **Cooperative Education Intern (30 Weeks / 2 Semesters)** — *Medical Informatics Development, Bangkok Hospital Siriroj (BDMS Group)*  
 🗓️ **Internship Period:** *20 April – 13 November 2026 (20 เมษายน – 13 พฤศจิกายน 2569)*  
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-trpxmac.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trpxmac.github.io)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-trpxmac.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trpxmac.github.io/)
 [![Email](https://img.shields.io/badge/Email-telpls50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telpls50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-trpxmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trpxmac)
+
+> 🌐 **ดูเว็บไซต์ Portfolio ฉบับเต็ม (พร้อมภาพหน้าจอ UI จริงทั้ง 6 ระบบ):** **[https://trpxmac.github.io/](https://trpxmac.github.io/)**
 
 </div>
 
@@ -56,8 +58,9 @@
 
 ---
 
-## 📌 Quick Links (รวมลิงก์โปรเจกต์ทั้งหมดสำหรับตรวจสอบโค้ด)
+## 📌 Quick Links (รวมลิงก์เว็บไซต์ Portfolio และโปรเจกต์ทั้งหมด)
 
+- 🌐 **Portfolio Website (รวมภาพหน้าจอและรายละเอียดทั้ง 6 ระบบ):** [https://trpxmac.github.io/](https://trpxmac.github.io/)
 - 👤 **Solo Projects:**
   - 🏥 [https://github.com/trpxmac/cost-estimation-mvp](https://github.com/trpxmac/cost-estimation-mvp) — *Hospital Cost Estimation System*
   - 💬 [https://github.com/trpxmac/doctor-leave-line](https://github.com/trpxmac/doctor-leave-line) — *Doctor Leave @ LINE OA (LIFF & Admin Portal)*
