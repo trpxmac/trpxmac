@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Teerapong Kaewchuay (ธีรพงษ์ แก้วช่วย)
+# 👋 Hi, I'm Teerapong Kaewchuai (ธีรพงษ์ แก้วช่วย)
 ### 💻 Full-Stack Web Developer | Healthcare & Enterprise Digital Solutions
 🎓 **B.Sc. in Information Technology and Digital Innovation** — *Walailak University*  
 🏥 **Cooperative Education Intern** — *Medical Informatics Development, Bangkok Hospital Siriroj (BDMS Group)*  
