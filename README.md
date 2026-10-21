@@ -5,7 +5,7 @@
 🎓 **B.Sc. in Information Technology and Digital Innovation** — *Walailak University*  
 🏥 **Cooperative Education Intern** — *Medical Informatics Development, Bangkok Hospital Siriroj (BDMS Group)*  
 
-[![Email](https://img.shields.io/badge/Email-teerapong.ka%40mail.wu.ac.th-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teerapong.ka@mail.wu.ac.th)
+[![Email](https://img.shields.io/badge/Email-telpls50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telpls50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-trpxmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trpxmac)
 
 </div>
