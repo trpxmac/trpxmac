@@ -3,7 +3,8 @@
 # 👋 Hi, I'm Teerapong Kaewchuai (ธีรพงษ์ แก้วช่วย)
 ### 💻 Full-Stack Web Developer | Healthcare & Enterprise Digital Solutions
 🎓 **B.Sc. in Information Technology and Digital Innovation** — *Walailak University*  
-🏥 **Cooperative Education Intern** — *Medical Informatics Development, Bangkok Hospital Siriroj (BDMS Group)*  
+🏥 **Cooperative Education Intern (30 Weeks / 2 Semesters)** — *Medical Informatics Development, Bangkok Hospital Siriroj (BDMS Group)*  
+🗓️ **Internship Period:** *20 April – 13 November 2026 (20 เมษายน – 13 พฤศจิกายน 2569)*  
 
 [![Email](https://img.shields.io/badge/Email-telpls50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telpls50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-trpxmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trpxmac)
@@ -32,7 +33,7 @@
 ---
 
 ## 🏥 Featured Internship Projects — Bangkok Hospital Siriroj (BDMS)
-> ผลงานการออกแบบและพัฒนาระบบสารสนเทศทางการแพทย์และระบบปฏิบัติการภายในโรงพยาบาลกรุงเทพสิริโรจน์ (แผนก Medical Informatics Development) แบ่งเป็น **โปรเจกต์พัฒนาเดี่ยว (Solo Full-Stack)** 4 ระบบ และ **โปรเจกต์พัฒนาร่วมกับทีม (Team Co-Developed)** 2 ระบบ
+> ผลงานการออกแบบและพัฒนาระบบสารสนเทศทางการแพทย์และระบบปฏิบัติการภายในโรงพยาบาลกรุงเทพสิริโรจน์ (แผนก Medical Informatics Development) ในการปฏิบัติสหกิจศึกษาต่อเนื่อง **2 ภาคการศึกษา รวมระยะเวลา 30 สัปดาห์ (20 เมษายน – 13 พฤศจิกายน 2569)** แบ่งเป็น **โปรเจกต์พัฒนาเดี่ยว (Solo Full-Stack)** 4 ระบบ และ **โปรเจกต์พัฒนาร่วมกับทีม (Team Co-Developed)** 2 ระบบ
 
 ### 👤 1. Solo Projects (ออกแบบและพัฒนาเดี่ยวแบบ End-to-End ครบวงจร)
 
