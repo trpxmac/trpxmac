@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trpxmac&layout=compact&hide=html,css&bg_color=0d1117&text_color=94a3b8&title_color=10b981&border_color=30363d" alt="Most Used Languages" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=trpxmac&show_icons=true&bg_color=0d1117&text_color=94a3b8&title_color=10b981&border_color=30363d&icon_color=10b981" alt="GitHub Stats" height="165" />
+</p>
+
 ---
 
 ## 🏥 Featured Internship Projects — Bangkok Hospital Siriroj (BDMS)
