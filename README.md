@@ -7,6 +7,7 @@
 🗓️ **Internship Period:** *20 April – 13 November 2026 (20 เมษายน – 13 พฤศจิกายน 2569)*  
 
 [![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-trpxmac.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trpxmac.github.io/)
+[![Resume PDF](https://img.shields.io/badge/📄_Download_Resume_(PDF)-38B6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://trpxmac.github.io/Resume_Teerapong_Kaewchuai.pdf)
 [![Email](https://img.shields.io/badge/Email-telpls50%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telpls50@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-trpxmac-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trpxmac)
 
