@@ -62,7 +62,11 @@
 
 > ผลงานการออกแบบและพัฒนาระบบสารสนเทศทางการแพทย์และระบบปฏิบัติการภายในโรงพยาบาลกรุงเทพสิริโรจน์ (แผนก Medical Informatics Development) ในการปฏิบัติสหกิจศึกษาต่อเนื่อง **2 ภาคการศึกษา รวมระยะเวลา 30 สัปดาห์ (20 เมษายน – 13 พฤศจิกายน 2569)** แบ่งเป็น **โปรเจกต์พัฒนาเดี่ยว (Solo Full-Stack)** 4 ระบบ และ **โปรเจกต์พัฒนาร่วมกับทีม (Team Co-Developed)** 2 ระบบ  
 >  
-> 🤝 **กิจกรรมสำคัญ (Key Activity):** ได้รับโอกาสเข้าร่วมงานสัมมนาและพิธีลงนามความร่วมมือ **“BDMS in Phuket x Microsoft Executive AI Forum: Shaping the Future of Healthcare with AI”** ร่วมกับ Microsoft (31 สิงหาคม 2569) • [📰 อ่านข่าวประชาสัมพันธ์อย่างเป็นทางการ (Facebook)](https://www.facebook.com/phukethospital/posts/1362633152749859)
+> 🤝 **กิจกรรมและการศึกษาดูงานสำคัญ (Key Activities & Site Visits):**  
+> • **BDMS in Phuket x Microsoft Executive AI Forum:** เข้าร่วมงานสัมมนาเชิงยุทธศาสตร์และการลงนาม MOU *“Shaping the Future of Healthcare with AI”* (31 ส.ค. 2569) • [📰 ข่าวประชาสัมพันธ์ (FB)](https://www.facebook.com/phukethospital/posts/1362633152749859)  
+> • **GoSoft (Thailand) — CP ALL Group:** ศึกษาดูงานระบบ Enterprise Retail & Cloud Architecture ระดับประเทศ (21 พ.ย. 2567)  
+> • **Bitkub Capital Group & Digital ASEAN:** ศึกษาดูงานเทคโนโลยี FinTech, Blockchain และ Web3 ณ สำนักงานใหญ่ Bitkub (22 พ.ย. 2567)  
+> *(🌐 ชมภาพถ่ายบรรยากาศจริงทั้งหมดได้ที่ [trpxmac.github.io/#activities](https://trpxmac.github.io/#activities))*
 
 ### 👤 1. Solo Projects (ออกแบบและพัฒนาเดี่ยวแบบ End-to-End ครบวงจร)
 
